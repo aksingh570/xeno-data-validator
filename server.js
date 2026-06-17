@@ -9,6 +9,12 @@ const archiver = require('archiver');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Ensure required directories exist (needed on fresh deploys like Render)
+['uploads', 'outputs'].forEach(dir => {
+  const p = path.join(__dirname, dir);
+  if (!fs.existsSync(p)) fs.mkdirSync(p, { recursive: true });
+});
+
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.json());
 
