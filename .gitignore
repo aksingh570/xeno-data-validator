@@ -3,3 +3,5 @@ uploads/
 outputs/
 *.zip
 *.msi
+client/node_modules/
+.env

@@ -1,0 +1,26 @@
+order_id,customer_name,email,phone_number,city,order_date,product_name,quantity,amount,payment_mode
+ORD001,Ankita Singh,ankita@gmail.com,9876543210,Delhi,2025-03-15,Kurta Set,2,1500.00,UPI
+ORD002,Rahul Sharma,rahul.sharma@yahoo.com,9123456789,Mumbai,2025-04-01,Sneakers,1,2999.00,Credit Card
+ORD003,Priya Mehta,priyamehta@gmail.com,8800112233,Bangalore,14-02-2025,Handbag,1,4500.50,Debit Card
+ORD004,Sneha Patel,,9988776655,Chennai,2025-01-20,Watch,1,8999.00,Cash
+ORD005,Vikas Nair,vikasnair@gmail.com,12345,Pune,2025-03-30,Laptop Stand,3,750.00,UPI
+ORD006,Meera Joshi,meera.joshi@hotmail.com,7766554433,Hyderabad,2025/02/10,Earphones,2,1299.99,Net Banking
+ORD007,,rohit@gmail.com,9871234560,Kolkata,2025-04-05,T-Shirt,5,499.00,UPI
+ORD008,Deepa Iyer,deepa.iyer@gmail.com,9900887766,Ahmedabad,2025-03-22,Saree,1,3200.00,Credit Card
+ORD009,Arjun Das,arjundas_invalid_email,8877665544,Delhi,2025-04-10,Backpack,1,1800.00,Debit Card
+ORD010,Simran Kaur,simran@gmail.com,9812345678,Chandigarh,2025-03-18,Sunglasses,2,650.00,Cash
+ORD011,Karan Malhotra,karan.m@outlook.com,7890123456,Jaipur,25-03-2025,Shoes,1,3500.00,UPI
+ORD012,Nisha Verma,nisha.verma@gmail.com,9001234567,Lucknow,2025-02-28,Dress,2,2100.00,Credit Card
+ORD013,Amit Kumar,amitk@yahoo.com,,Bhopal,2025-03-05,Phone Case,4,299.00,Cash
+ORD014,Pooja Reddy,pooja.reddy@gmail.com,9456789012,Vizag,2025-04-12,Perfume,1,1200.00,Net Banking
+ORD015,Ravi Shankar,ravi@gmail.com,9345678901,Coimbatore,2026-15-45,Headphones,1,2500.00,UPI
+ORD016,Sunita Gupta,sunita.gupta@gmail.com,8234567890,Nagpur,2025-03-28,Yoga Mat,1,800.00,Debit Card
+ORD017,Farhan Sheikh,farhan@hotmail.com,7123456789,Surat,2025-04-03,Jacket,1,4200.00,Credit Card
+ORD018,Lakshmi Nambiar,lakshmi@gmail.com,9678901234,Kochi,2025-02-14,Gold Earrings,1,6500.00,Net Banking
+ORD019,Manish Tiwari,manish.tiwari@gmail.com,8901234567,Patna,2025-03-10,Wallet,2,950.00,UPI
+ORD020,Zoya Khan,zoya.khan@gmail.com,9234567801,Indore,2025-04-08,Kurti,3,1100.00,Cash
+ORD021,Arun Pillai,not-a-valid-email,9567890123,Thrissur,2025-01-30,Belt,1,450.00,UPI
+ORD022,Divya Saxena,divya@gmail.com,9890123456,Agra,2025-03-14,Scarf,2,380.00,Debit Card
+ORD023,Nikhil Bhatt,nikhil.bhatt@yahoo.com,8765432109,Vadodara,2025-04-07,Sunscreen,3,599.00,Credit Card
+ORD024,Kaveri Rao,kaveri.rao@gmail.com,9321098765,Mysore,2025-02-20,Silk Saree,1,7800.00,Net Banking
+ORD025,Harpreet Singh,harpreet@gmail.com,9871109876,Amritsar,32-13-2025,Turban Fabric,2,1350.00,Cash
