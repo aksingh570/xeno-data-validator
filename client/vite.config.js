@@ -3,15 +3,9 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
+  base: '/xeno-data-validator/',
   build: {
-    outDir: '../public',
+    outDir: 'dist',
     emptyOutDir: true,
-  },
-  server: {
-    proxy: {
-      '/validate': 'http://localhost:3000',
-      '/preview': 'http://localhost:3000',
-      '/download': 'http://localhost:3000',
-    }
   }
 })
